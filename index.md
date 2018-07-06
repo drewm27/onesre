@@ -2,11 +2,13 @@
 layout: default
 ---
 
-OneSRE is the difference between needing a team of 4 vs a team of 40
+OneSRE is a high server to admin ratio
 
-OneSRE is the difference between full automation vs a ton of manual processes
+OneSRE is full automation 
 
-OneSRE is the difference between elegant simplistic design vs overcomplexity
+OneSRE is elegant simplistic design 
 
-OneSRE is the difference between 99.99% uptime and 99% uptime
+OneSRE is modular reuseable tools
+
+OneSRE is > 99.99% uptime
 
