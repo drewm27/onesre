@@ -12,3 +12,5 @@ OneSRE is modular reuseable tools
 
 OneSRE is > 99.99% uptime
 
+## Documents
+[Project Best Practices Checklist](best-practices.html)
