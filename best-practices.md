@@ -4,7 +4,7 @@ layout: default
 
 # Project Best Practices Checklist
 
-This is a checklist to use to vet projects in the requirements and design document phases. Doing this due diligence in the planning stages of a project can save months or years of migration and development work before realizing a project’s design doesn’t fit the company's needs, could have been easily expanded to cover other use cases, or doesn’t fit into where the infrastructure is headed.
+This is a checklist to vet projects in the requirements and design document phases. Doing this due diligence in the planning stages of a project can save months or years of migration and development work before realizing a project’s design doesn’t fit the company's needs, could have been easily expanded to cover other use cases, or doesn’t fit into where the infrastructure is headed.
 
 ## Project Checklist
 ### Automation/Time/Cost
