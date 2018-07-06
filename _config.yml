@@ -2,6 +2,6 @@ title: OneSRE.com
 description: SRE design philosophies that can make or break your company
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 github:
   is_project_page: false
