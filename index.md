@@ -8,4 +8,5 @@ Building sustainable automated infrastructure is very similar to building a larg
 
 ## Documents
 [Project Best Practices Checklist](best-practices.html)
+
 [Configuration Management](configuration-management.html)
