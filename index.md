@@ -5,4 +5,11 @@ Building sustainable automated infrastructure is very similar to building a larg
 ## Documents
 [Project Best Practices Checklist](best-practices.html)
 
+
+## Key Infrastructure Requirements
+
+[Documentation](documentation.html)
+
 [Configuration Management](configuration-management.html)
+
+[Configuration Management Database](configuration-management-database.html)
