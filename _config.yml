@@ -3,5 +3,5 @@ description: Site Reliability Engineering design philosophies that can make or b
 show_downloads: false
 google_analytics: UA-122367447-1
 theme: jekyll-theme-cayman
-
-
+github:
+  is_project_page: false
