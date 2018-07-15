@@ -15,3 +15,5 @@ Building sustainable automated infrastructure is very similar to building a larg
 [Configuration Management](configuration-management.html)
 
 [Configuration Management Database](configuration-management-database.html)
+
+[Monitoring Systems](monitoring-systems.html)
