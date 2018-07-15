@@ -4,6 +4,8 @@ Building sustainable automated infrastructure is very similar to building a larg
 
 [Drew Middlesworth](https://www.linkedin.com/in/andrewmiddlesworth/)
 
+Email me at my first name dot my last name at gmail.com
+
 ## Documents
 
 [Project Best Practices Checklist](best-practices.html)
